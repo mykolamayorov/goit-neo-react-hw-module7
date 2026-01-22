@@ -25,3 +25,15 @@ h1 {
   flex-wrap: wrap;
   gap: 16px;
 }
+
+.loading {
+  color: #007bff;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.error {
+  color: #ff4d4f;
+  font-weight: bold;
+  margin: 10px 0;
+}
